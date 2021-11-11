@@ -1,5 +1,5 @@
 title: 빅데이터 처리 - 2021 2학기
-subtitle: 빅데이터 처리 블로그 테스트
+subtitle: 빅데이터 처리 기말 프로젝트
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -25,12 +25,11 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Suyoung Jeon
-author_bio: Hi, my name is Suyoung Jeon. 
+author: Suyoung Jeon, Jangyeon Lee, Jinwoo Lee
+author_bio: This is a blog of producing the final test project
 author_email: "fosehdwl@naver.com"
 author_location: South Korea
 author_website_url: "http://Suyoung-Jeon.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Education
