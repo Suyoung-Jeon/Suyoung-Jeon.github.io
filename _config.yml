@@ -25,13 +25,13 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: Suyoung Jeon, Jangyeon Lee, Jinwoo Lee
+author: a good boy
 author_bio: This is a blog of producing the final test project
 author_email: "fosehdwl@naver.com"
 author_location: South Korea
 author_website_url: "http://Suyoung-Jeon.com"
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
-typewrite-text: 환영합니다.
+typewrite-text: 이장연, 이진우, 전수영 블로그에 오신 것을 환영합니다.
 
 # Education
 author_education_details:
